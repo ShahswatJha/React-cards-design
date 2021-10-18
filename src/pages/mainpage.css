@@ -1,0 +1,21 @@
+.SearchPage_body{
+    background-color: pink;
+    /* height: calc(100vh-70px); */
+    height: 100vh;
+    display: flex;
+}
+
+.SearchPage_left{
+    background-color:darkolivegreen;
+    flex: 70;
+    height: 100%;
+}
+.SearchPage_right{
+    background-color:darkslateblue;
+    flex: 30;
+    height: 100%;
+}
+
+.wrapper{
+    padding: 10px;
+}
